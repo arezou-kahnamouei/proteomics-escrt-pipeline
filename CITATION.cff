@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: proteomics-escrt-pipeline
+message: If you use this pipeline, please cite it as below.
+authors:
+  - family-names: Kahnamouei
+    given-names: Arezou
+date-released: 2025-10-02
+version: 0.1.0
